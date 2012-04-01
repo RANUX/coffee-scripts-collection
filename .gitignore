@@ -1,0 +1,11 @@
+# filses to ignore
+*.vi
+*~
+*.js
+
+# Folders to ignore
+.hg
+.svn
+.CVS
+.idea
+

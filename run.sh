@@ -1,0 +1,1 @@
+coffee -c canvas/coffee/basic.coffee && coffee server.coffee
